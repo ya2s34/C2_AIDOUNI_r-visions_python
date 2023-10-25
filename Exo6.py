@@ -2,5 +2,5 @@
 from datetime import datetime
 
 date = datetime.now()
-print("Nous sommme le " ,date)
+print("Nous sommme le " , date)
 

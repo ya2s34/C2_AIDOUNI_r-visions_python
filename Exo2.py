@@ -7,4 +7,4 @@ nb_mots = nom.split()
 
 print("Bonjour " + maj + "!")
 print("Bonjour " + min + "!")
-print("nb de mots = " , len(nb_mots) , "!")
+print("nb de mots = " , len(nb_mots) , "!")     
